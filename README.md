@@ -1,4 +1,4 @@
-# Grokking Algorithms
+# 算法图解 Grokking Algorithms
 
 This is the code in my book [Grokking Algorithms](https://www.manning.com/bhargava).
 
