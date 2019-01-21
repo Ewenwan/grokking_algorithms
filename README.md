@@ -4,6 +4,8 @@ This is the code in my book [Grokking Algorithms](https://www.manning.com/bharga
 
 Also check out [Python Tutor](http://pythontutor.com/), a great website that helps you step through Python code line by line.
 
+[中文版书籍](https://github.com/Ewenwan/living/blob/master/work/education/jiaocai/%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3-python.pdf)
+
 ## Errata
 
 [Here's the errata page](http://adit.io/errata.html).
